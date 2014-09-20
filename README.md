@@ -1,2 +1,2 @@
-ClientSupplierDocApp
+ClientSupplierMapper
 ====================
